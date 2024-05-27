@@ -2,7 +2,7 @@ import Header from './components/Header';
 
 export default function Home() {
   return (
-    <main className="m-10">
+    <main className="container mx-auto mt-8">
       <Header />
     </main>
   );
